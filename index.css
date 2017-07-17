@@ -13,7 +13,7 @@ main{
 nav{
   background-color: #00A6B3;
   padding-bottom:20px; 
-  padding-top:20px;cc
+  padding-top:20px; 
 }
 header{
     background-color:  #F15B31;
@@ -81,4 +81,11 @@ footer{
 .name{
   color: #F15B31;
   font-weight: 700;
+}
+#link{
+  font-family: "Releway";
+  color: #F15B31;
+  letter-spacing:1px;
+  font-weight: 600;
+  font-size: 18px; 
 }
