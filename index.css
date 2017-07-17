@@ -37,14 +37,6 @@ p {
   line-height: 26px;
   font-size: 18px;  
 }
-.clearfix:after {
-  visibility: hidden;
-  display: block;
-  content: " ";
-  clear: both;
-  height: 0;
-  font-size: 0;
-}
 a{
 	font-family: "Raleway", sans-serif;
 	color: white ;
@@ -65,7 +57,7 @@ h2{
 footer{
   text-transform: uppercase;
   padding-left: 20px;
-  padding-right: 20px
+  padding-right: 20px;
   color: white;
   background-color: #0D2C40;
   font-size: 10px;
@@ -83,7 +75,7 @@ footer{
 .Copyright{
   float: left;
 }
-.massage{
+.message{
   float: right;
 }
 .name{
